@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+ html{
+    scroll-behavior: smooth;
+ }
+.zain{
+    font-family: "Fraunces", serif;
+}
+.zz{
+    font-family: "Fraunces", serif
+}
+body{
+    scroll-behavior: smooth;
+}
